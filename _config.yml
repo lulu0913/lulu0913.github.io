@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lingun Lu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "lulu0913/lulu0913.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/lulu0913"
+  github           : "lulu0913"
   google_plus      :
   keybase          :
   instagram        :
