@@ -28,6 +28,8 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 
   **Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu, Han Xu
 
+  This work argues that the relations in knowledge graph exhibit a long-tail distribution, limiting their utility in recommendation systems. Thus, the paper suggests virtual relational knowledge graphs for recommendation tasks.
+
 </div>
 </div>
 
