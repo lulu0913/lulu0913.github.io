@@ -52,6 +52,7 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 - *2022.11* Shenzhen Stock Exchange (SZSE) Scholarship.
 - *2022.10* Zhixing Scholarship.
 - *2021.06* Outstanding Bachelor's Graduate of Huazhong University of Science and Technology.
+- *2020.11* Outstanding National Undergraduate Innovation and Entrepreneurship Programs
 - *2019.11* National Scholarship (top 1%)
 - *2019.10* Merit Student of Huazhong University of Science and Technology
 - *2018.11* National Scholarship (top 1%)
