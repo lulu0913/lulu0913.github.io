@@ -24,11 +24,10 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WSDM 2023</div><img src='images/model.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014196) [[Code]](https://github.com/lulu0913/RAGNN)
+- VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014196) [[Code]](https://github.com/lulu0913/RAGNN)
 
   **Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu, Han Xu
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
