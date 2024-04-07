@@ -49,8 +49,8 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 
 
 # 💻 Internships
-- *2023.10 - 2024.01*, Research Intern for Large Language Model in [Baizhi](http://www.bzfar.com/), China.
-- *2023.06 - 2023.09*, Research Intern for Recommendation Systems in [Kuaishou](https://www.kuaishou.com/en), China.
+- *2023.10 - 2024.01*, Research Intern for Large Language Model in [Baizhi](http://www.bzfar.com/), Wuhan China.
+- *2023.06 - 2023.09*, Research Intern for Recommendation Systems in [Kuaishou](https://www.kuaishou.com/en), Beijing China.
 
 
 # 🎖 Honors and Awards
