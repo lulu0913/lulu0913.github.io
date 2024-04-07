@@ -22,38 +22,40 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 
 # 📝 Publications
 
-VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014196) [[Code]](https://github.com/lulu0913/RAGNN)
+- VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014196) [[Code]](https://github.com/lulu0913/RAGNN)
 
-**Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu, Han Xu
+  **Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu, Han Xu
 
-*WSDM 2023*
-
-
-Distinguishing latent interaction types from implicit feedbacks for recommendation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570482) [[Code]](https://github.com/lulu0913/RAGNN)
-
-**Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu*
-
-*Information Sciences*
+  *WSDM 2023*
 
 
-On Mining User-Item Interactions via Knowledge Graph for Recommendation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3638065)
+- Distinguishing latent interaction types from implicit feedbacks for recommendation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570482) [[Code]](https://github.com/lulu0913/RAGNN)
 
-Shenghao Liu, **Lingyun Lu**, Bang Wang
+  **Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu*
 
-*ACM Transactions on Recommender Systems*
+  *Information Sciences, 2023*
+
+
+- On Mining User-Item Interactions via Knowledge Graph for Recommendation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3638065)
+
+  Shenghao Liu, **Lingyun Lu**, Bang Wang
+
+  *ACM Transactions on Recommender Systems, 2024*
 
 
 # 💻 Internships
-- *2023.06 - 2023.09*, Research Intern for Recommendation Systems in [Kuaishou](https://www.kuaishou.com/en), China.
 - *2023.10 - 2024.01*, Research Intern for Large Language Model in [Baizhi](http://www.bzfar.com/), China.
+- *2023.06 - 2023.09*, Research Intern for Recommendation Systems in [Kuaishou](https://www.kuaishou.com/en), China.
 
 
 # 🎖 Honors and Awards
 - *2022.11* Shenzhen Stock Exchange (SZSE) Scholarship.
 - *2022.10* Zhixing Scholarship.
 - *2021.06* Outstanding Bachelor's Graduate of Huazhong University of Science and Technology.
-- *2018.11, 2019.11* National Scholarship
-- *2018.11, 2019.11* Merit Student of Huazhong University of Science and Technology
+- *2019.11* National Scholarship (top 1%)
+- *2019.10* Merit Student of Huazhong University of Science and Technology
+- *2018.11* National Scholarship (top 1%)
+- *2018.10* Merit Student of Huazhong University of Science and Technology
 
 
 # 📖 Educations
