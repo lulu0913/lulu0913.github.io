@@ -22,11 +22,16 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 
 # 📝 Publications
 
-- VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014196) [[Code]](https://github.com/lulu0913/RAGNN)
+<div class='paper-box'><div class='paper-box-image'>WSDM 2023<img src='images/model.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+VRKG4Rec: Virtual Relational Knowledge Graph for Recommendation [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523014196) [[Code]](https://github.com/lulu0913/RAGNN)
 
   **Lingyun Lu**, Bang Wang, Zizhuo Zhang, Shenghao Liu, Han Xu
 
-  *WSDM 2023*
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
 
 - Distinguishing latent interaction types from implicit feedbacks for recommendation [[Paper]](https://dl.acm.org/doi/abs/10.1145/3539597.3570482) [[Code]](https://github.com/lulu0913/RAGNN)
