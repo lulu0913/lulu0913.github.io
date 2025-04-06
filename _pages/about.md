@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master's student at Huazhong University of Science and Technology (HUST), where I am lucky to be supervised by Prof. Bang Wang in MINS Lab. Prior to this, I also got my bachelor's degree at HUST in 2021. My research interest focuses on Data Mining, Graph Neural Networks and Large Language Models.
+I have been working at Ant Group as an Algorithm Engineer since 2024.
+I graduated from Huazhong University of Science and Technology (HUST), where I am lucky to be supervised by Prof. Bang Wang in MINS Lab. Prior to this, I also got my bachelor's degree at HUST in 2021. My research interest focuses on Data Mining, Graph Neural Networks and Large Language Models.
 
 
 # 📝 Publications
@@ -48,12 +49,14 @@ I am a third-year Master's student at Huazhong University of Science and Technol
   *ACM Transactions on Recommender Systems, 2024*
 
 
-# 💻 Internships
+# 💻 Working Experience & Internships
+- *2023.10 - 2024.01*, Algorithm Engineer for Machine Learning in [Ant Group](https://www.antgroup.com/), Hangzhou China.
 - *2023.10 - 2024.01*, Research Intern for Large Language Model in [Baizhi](http://www.bzfar.com/), Wuhan China.
 - *2023.06 - 2023.09*, Research Intern for Recommendation Systems in [Kuaishou](https://www.kuaishou.com/en), Beijing China.
 
 
 # 🎖 Honors and Awards
+- *2024.06* Outstanding Master's Graduate of Huazhong University of Science and Technology.
 - *2022.11* Shenzhen Stock Exchange (SZSE) Scholarship.
 - *2022.10* Zhixing Scholarship.
 - *2021.06* Outstanding Bachelor's Graduate of Huazhong University of Science and Technology.
@@ -65,5 +68,5 @@ I am a third-year Master's student at Huazhong University of Science and Technol
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (expected)*, Master in Electronic Information Engineering, Huazhong University of Science and Technology. 
+- *2021.09 - 2024.06*, Master in Electronic Information Engineering, Huazhong University of Science and Technology. 
 - *2017.09 - 2021.06*, Bachelor in Electronic Information Engineering, Huazhong University of Science and Technology. 

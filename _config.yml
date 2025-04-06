@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lingyun Lu"
+  name             : "Lingyun Lu (逯凌云)"
   avatar           : "images/lingyun.png"
   bio              : "Master's Student in HUST. Focusing on Graph Neural Networks and Large Language Model."
   location         : "Wuhan, China"
