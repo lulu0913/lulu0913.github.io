@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I have been working at Ant Group as an Algorithm Engineer since 2024.
+
 I graduated from Huazhong University of Science and Technology (HUST), where I am lucky to be supervised by Prof. Bang Wang in MINS Lab. Prior to this, I also got my bachelor's degree at HUST in 2021. My research interest focuses on Data Mining, Graph Neural Networks and Large Language Models.
 
 
@@ -50,7 +51,7 @@ I graduated from Huazhong University of Science and Technology (HUST), where I a
 
 
 # 💻 Working Experience & Internships
-- *2023.10 - 2024.01*, Algorithm Engineer for Machine Learning in [Ant Group](https://www.antgroup.com/), Hangzhou China.
+- *2024.07 - Present*, Algorithm Engineer for Machine Learning in [Ant Group](https://www.antgroup.com/), Hangzhou China.
 - *2023.10 - 2024.01*, Research Intern for Large Language Model in [Baizhi](http://www.bzfar.com/), Wuhan China.
 - *2023.06 - 2023.09*, Research Intern for Recommendation Systems in [Kuaishou](https://www.kuaishou.com/en), Beijing China.
 
